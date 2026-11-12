@@ -15,7 +15,7 @@ Contains four exported screens from the interactive Figma prototype.
 3. Receive a completion message.
 4. Discover DEFEND FEST.
 
-**Interactive Figma prototype:** [INSERT FIGMA LINK HERE]
+**Interactive Figma prototype:** (https://www.figma.com/design/I3YfY5WLCkWaaZPzPXKqFJ/Interactive-Prototype?node-id=0-1&t=m4n0kfkP5Cb3A5Fb-1)
 
 ## 2. Campaign Assets
 
